@@ -16,13 +16,13 @@ I know a little about: html, css, git, vsc, c++, oop.
 ##code examples
 *code from css course on code-basics*
 
-<style>
+```<style>
 .violet{
   color: #9400D3;
 }
 </style>
 <span class="violet">example for rs school</span>
-
+```
 ##Education
 LETI University. Bachelor's degree. Information Systems and Technologies.
 
