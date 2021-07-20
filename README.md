@@ -1,1 +1,0 @@
-https://veratheon.github.io/rsschool-cv/cv
