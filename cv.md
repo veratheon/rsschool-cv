@@ -1,18 +1,19 @@
 #Curriculum vitae
-**My name**
+
+##My name
 Vera Stepanova
 
-**Contacts**
+##Contacts
 email: *stepanova8911772@mail.ru*
 
-**About myself**
+##About myself
 I want to work as a front-end developer.
 I haven't work expirience, but i can learning really fast!
 
-**Skills**
+##Skills
 I know a little about: html, css, git, vsc, c++, oop.
 
-**code examples**
+##code examples
 *code from css course on code-basics*
 
 <style>
@@ -22,10 +23,10 @@ I know a little about: html, css, git, vsc, c++, oop.
 </style>
 <span class="violet">example for rs school</span>
 
-**Education**
+##Education
 LETI University. Bachelor's degree. Information Systems and Technologies.
 
-**English**
+##English
 I think my level: A2
 
 
