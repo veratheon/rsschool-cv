@@ -1,0 +1,38 @@
+        h1{
+            line-height: 100%;
+            font-size: 35px;
+        }
+        h2{
+            font-size: 24px;
+            line-height: 250%;
+            color: #2b538a;
+        }
+        .center {
+            width: 900px;
+            height: 1060px;
+            border: 1px solid #000000;
+            margin: auto;
+        }    
+        #rectangle {
+            width:900px;
+            height:250px;
+            background:#2b538a;
+            margin-top: -23px;
+        }
+        .photo {
+            float: left;
+            height: 200px;
+            width: 200px;
+            border-radius: 100%;
+            padding: 20px 110px;
+        }
+        .information{
+            font-size: 18px;
+            line-height: 150%;
+        }
+        #footer{
+            width:900px;
+            height:90px;
+            background:#2b538a;
+            margin-top: 720px;
+        }
