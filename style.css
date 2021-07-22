@@ -9,7 +9,7 @@
         }
         .center {
             width: 900px;
-            height: 1020px;
+            height: 1060px;
             border: 1px solid #000000;
             margin: auto;
         }    
@@ -31,5 +31,8 @@
             line-height: 150%;
         }
         #footer{
+            width:900px;
+            height:90px;
+            background:#2b538a;
             margin-top: 720px;
         }
