@@ -9,6 +9,7 @@
         }
         .center {
             width: 900px;
+            height: 1020px;
             border: 1px solid #000000;
             margin: auto;
         }    
@@ -28,4 +29,7 @@
         .information{
             font-size: 18px;
             line-height: 150%;
+        }
+        #footer{
+            margin-top: 720px;
         }
