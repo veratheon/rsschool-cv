@@ -3,6 +3,15 @@
   <head>
     <meta charset="utf-8">
     <style>
+        h1{
+            line-height: 100%;
+            font-size: 35px;
+        }
+        h2{
+            font-size: 24px;
+            line-height: 250%;
+            color: #2b538a;
+        }
         .center {
             width: 900px;
             border: 1px solid #000000;
@@ -12,7 +21,7 @@
             width:900px;
             height:250px;
             background:#2b538a;
-            margin-top: 0px;
+            margin-top: -23px;
         }
         .photo {
             float: left;
@@ -21,55 +30,69 @@
             border-radius: 100%;
             padding: 20px 110px;
         }
+        .information{
+            font-size: 18px;
+            line-height: 150%;
+        }
 
     </style>
     <title>Curriculum vitae</title>
   </head>
-  <body class="center">
+  <body class="center"> 
       <header id="rectangle">
           <h1> <img src="photo.jpg" alt="My photo" class="photo"> <br><br>Stepanova <br>Vera</h1>
       </header>
-      <main>
-          <left>
-                <h2>Contacts</h2>
-                <ul>
+      <main style="width: 900px;">
+          <div style="width:50%; text-align: left; float: left;">
+            <section>
+                <h2>CONTACTS</h2>
+                <ul class="information">
                 <li>email: stepanova8911772@mail.ru</li>
                 <li>phone: 89110946869</li>
                 </ul>
-                <h2>About myself</h2>
-                <p>I want to work as a front-end developer.<br>
-                   I haven't work expirience, but i can learning really fast!</p>
-                <h2>Skills</h2>
-                <p>I know a little about:</p>
-                <ul>
+            </section>
+            <section  style="padding-top: 61px">
+                <h2>ABOUT MYSELF</h2>
+                <p class="information">I want to work as a front-end developer.<br>
+                   I don't have work expirience, but i can learn really fast!</p>
+            </section>
+            <section style="padding-top: 3px">
+                <h2>SKILLS</h2>
+                <p class="information">I know a little about:</p>
+                <ul class="information">
                     <li>html</li>
                     <li>css</li>
                     <li>git</li>
-                    <li>csc</li>
                     <li>c++</li>
                     <li>oop</li>
                 </ul>
-          </left>
+            </section>
+          </div>
 
-          <right style="float: right">
-            <h2>Code examples</h2>
-            <p>code from css course on code-basics</p>  
-            <code>
-                <pre>
-                .violet{
+          <div style="width:50%; text-align: left; float: left;">
+            <section>
+                <h2>CODE EXAMPLE</h2>
+                <p class="information">code from css course on code-basics: </p>  
+                <code>
+                    <pre>
+                .violet {
                     color: #9400D3;
-                  }
-                  </style>
-                  <span class="violet">example for rs school</span>
-                </pre>
-            </code>   
-            <h2>Education</h2>  
-            <p>LETI University. Bachelor's degree.<br>
-               Information Systems and Technologies.</p>  
-            <h2>English</h2> 
-            <p>My level:A2</p>
-          </right>
-          
+                    }
+                    </style>
+                    <span class="violet">example for rs school</span>
+                    </pre>
+                </code>   
+            </section>
+            <section>
+                <h2>EDUCATION</h2>  
+                <p class="information">LETI University. Bachelor's degree.<br>
+                Information Systems and Technologies.</p>  
+            </section>
+            <section  style="padding-top: 5px">
+                <h2>ENGLISH</h2> 
+                <p class="information">My level:A2</p>
+            </section>
+        </div>
       </main>
 
 
