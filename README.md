@@ -1,1 +1,1 @@
-https://veratheon.github.io/rsschool-cv/cv
+https://veratheon.github.io/rsschool-cv/
