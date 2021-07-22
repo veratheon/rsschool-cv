@@ -4,14 +4,21 @@
 Vera Stepanova
 
 ## Contacts
-email: *stepanova8911772@mail.ru*
+1. email: *stepanova8911772@mail.ru*
+2. phone: 89110946869
 
 ## About myself
 I want to work as a front-end developer.
 I haven't work expirience, but i can learning really fast!
 
 ## Skills
-I know a little about: html, css, git, vsc, c++, oop.
+I know a little about: 
+1. html
+2. css
+3. git
+4. vsc 
+5. c++
+6. oop
 
 ## code examples
 *code from css course on code-basics*
